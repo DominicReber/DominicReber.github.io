@@ -12,3 +12,5 @@ Spike Spiegel is a fictional character introduced as the protagonist of the 1998
   * Spike always holds true to his own values and fulfills his obligations
 
   > That's the story. And what was the real lesson? Don't leave things in the fridge.
+
+  <img src="https://i.redd.it/3u3czyl6jxf21.jpg"/>
